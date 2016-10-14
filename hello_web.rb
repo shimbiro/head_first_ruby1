@@ -1,4 +1,4 @@
 require 'sinatra'
 get ('hello') do
-	'Hello, web'
+	'Hello, web!'
 end
